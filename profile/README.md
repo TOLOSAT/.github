@@ -1,4 +1,17 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+
+## Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+We are a group of students from Toulouse, France working on a nano-satellite mission.
+
+You will find here repositories used by some of our subsystems to collaborate and share their work with the rest of the team.
+
+
+## Join the GitHub TOLOSAT team 🛰️
+
+If you are a member of TOLOSAT, contact [Arnaud Muller](https://github.com/Nosudrum) here or on Discord to be invited in the GitHub team.
+
+If not, follow our social media accounts to see when the next application wave is open.
 
 <!--
 
