@@ -9,7 +9,7 @@ You will find here repositories used by some of our subsystems to collaborate an
 
 ## Join the GitHub TOLOSAT team 🛰️
 
-If you are a member of TOLOSAT, contact [Arnaud Muller](https://github.com/Nosudrum) here or on Discord to be invited in the GitHub team.
+If you are a member of TOLOSAT, contact [Arnaud Muller](https://discord.com/users/185822873913393153) on Discord to be invited in the GitHub team.
 
 If not, follow our social media accounts to see when the next application wave is open.
 
