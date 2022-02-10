@@ -13,7 +13,7 @@ If you are a member of TOLOSAT, contact [Arnaud Muller](https://discord.com/user
 
 If not, follow our social media accounts to see when the next application wave is open.
 
-![TOLOSAT Banner](banner.png)
+<img src="https://raw.githubusercontent.com/TOLOSAT/.github/main/profile/banner.png">
 
 <!--
 
