@@ -1,6 +1,6 @@
 <!-- ## Hi there 👋 -->
 
-## Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25">
 
 We are a group of students from Toulouse, France working on a nano-satellite mission.
 
